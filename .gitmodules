@@ -1,3 +1,4 @@
 [submodule "tsdb"]
 	path = tsdb
 	url = https://github.com/noorall/tsdb
+	branch = dev
